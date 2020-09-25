@@ -1,0 +1,26 @@
+h1{
+    font-family: 'Teko', sans-serif;
+}
+h2{
+    font-family: 'Teko', sans-serif;
+}
+h3{
+    font-family: 'Teko', sans-serif;
+}
+h4{
+    font-family: 'Teko', sans-serif;
+}
+h5{
+    font-family: 'Teko', sans-serif;
+}
+h6{
+    font-family: 'Teko', sans-serif;
+}
+p{
+    font-family: 'Muli', sans-serif;
+}
+.btn-primary:hover {
+    color: #fff;
+    background-color: #000;
+    border-color: #0062cc;
+}
